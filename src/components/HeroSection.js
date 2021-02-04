@@ -11,8 +11,8 @@ return(
         <div className="hero-btns">
             <Button
             className='btns'
-            buttonStyle='btn--outline'
-            buttonSize='btn--large'
+            buttonStyle='btn--primary'
+            buttonSize='btn--medium'
             >
                 GET Started
             </Button>

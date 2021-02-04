@@ -14,6 +14,7 @@ function Cards(){
          text='Explore the hidden waterfall deep inside the Amazon Jungle'
          label='Adventrue'
          path='/Products'/>
+         
           <CardItem 
            src='images/img-2.jpg'
          text=' Travel through the Islands of Bali in a Private Cruise'

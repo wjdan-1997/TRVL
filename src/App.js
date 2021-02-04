@@ -1,9 +1,11 @@
 import React from 'react'
 import './App.css';
 
-import Navbar from './components/NavBar';
-import Home from './components/pages/Home';
 import {BrowserRouter as Router, Switch, Route}from 'react-router-dom'
+
+import Navbar from './components/NavBar';
+
+import Home from './components/pages/Home';
 import Products from './components/pages/Products';
 import Services from './components/pages/Services';
 import SignUp from './components/pages/SignUp';
